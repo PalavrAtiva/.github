@@ -1,4 +1,4 @@
-#PalavrAtiva
+# PalavrAtiva
 
 ## Sobre o projeto 
 O projeto está no desenvolvimento de Aplicativo para Estimulação Linguístico-Cognitiva em Adultos e Adultos Idosos. 

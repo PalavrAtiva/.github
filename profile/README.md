@@ -1,4 +1,4 @@
-![alt text](palavrativa_logo.png?raw=true)
+![alt text](/.github//profile/palavrativa_logo.png?raw=true)
 
 ## Sobre o projeto 
 O projeto está no desenvolvimento de Aplicativo para Estimulação Linguístico-Cognitiva em Adultos e Adultos Idosos. 

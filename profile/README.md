@@ -28,3 +28,7 @@ FASE 2: DESENVOLVIMENTO E TESTAGEM DO APLICATIVO DO PROGRAMA ATIVAMENTE-PALAVRAT
 - Há feedback/retorno ao concluir as tarefas, em alguns casos com indicação de acertos e tempo de realização.
 - As atividades podem ser de curta duração - de 10 a 20 minutos por dia e deverão ser desenvolvidas individualmente, sem ajuda de outras pessoas.
 - As atividades deveriam ser realizadas todos os dias, ao menos de 2a a 6a feira, em horário da preferência do usuário - previsão de atividades para 30 dias, em torno de 5 atividades por dia (vários com formato semelhante, mas conteúdo diferente).
+
+## Organização Técnica
+
+[Wiki](https://github.com/PalavrAtiva/wiki)

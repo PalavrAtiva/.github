@@ -1,3 +1,6 @@
+![alt text](https://github.com/PalavrAtiva/.github/profile/palavrativa_logo.png?raw=true)
+
+
 # PalavrAtiva
 
 ## Sobre o projeto 

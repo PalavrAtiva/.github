@@ -12,6 +12,7 @@ Verificar a eficácia da administração do programa de atividades linguísticas
 
 ## Objetivos específicos
 FASE 1: FASE DE ANÁLISE DOS DADOS E DAS TAREFAS DO PROGRAMA ATIVAMENTE-PALAVRATIVA
+
 FASE 2: DESENVOLVIMENTO E TESTAGEM DO APLICATIVO DO PROGRAMA ATIVAMENTE-PALAVRATIVA
 
 ## Público Alvo
